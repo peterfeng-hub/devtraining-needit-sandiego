@@ -4,13 +4,13 @@
             <element>short_description</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-12 06:15:57</sys_created_on>
-            <sys_id>bf4204e387d7411061dccaaf8bbb35cf</sys_id>
+            <sys_created_on>2022-05-14 08:42:36</sys_created_on>
+            <sys_id>670776c8876fc11061dccaaf8bbb352e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Section 1" display_value="Section 1" name="x_58872_needit_needit" sys_domain="global" view="Default view">71b937db8797411061dccaaf8bbb3580</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-12 06:15:57</sys_updated_on>
+            <sys_updated_on>2022-05-14 08:42:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,27 @@
             <element>description</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-12 06:15:57</sys_created_on>
-            <sys_id>334204e387d7411061dccaaf8bbb35d0</sys_id>
+            <sys_created_on>2022-05-14 08:42:36</sys_created_on>
+            <sys_id>6b0776c8876fc11061dccaaf8bbb352e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Section 1" display_value="Section 1" name="x_58872_needit_needit" sys_domain="global" view="Default view">71b937db8797411061dccaaf8bbb3580</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-12 06:15:57</sys_updated_on>
+            <sys_updated_on>2022-05-14 08:42:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_history</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-14 08:42:36</sys_created_on>
+            <sys_id>6f0776c8876fc11061dccaaf8bbb352e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Section 1" display_value="Section 1" name="x_58872_needit_needit" sys_domain="global" view="Default view">71b937db8797411061dccaaf8bbb3580</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-14 08:42:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
